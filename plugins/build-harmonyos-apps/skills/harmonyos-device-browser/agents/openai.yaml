@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS Device Browser"
+  short_description: "Capture visual proof from HarmonyOS devices and emulators"
+  default_prompt: "Use $harmonyos-device-browser to capture screenshots and visual proof for a running HarmonyOS app."

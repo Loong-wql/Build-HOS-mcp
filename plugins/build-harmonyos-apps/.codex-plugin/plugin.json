@@ -1,0 +1,46 @@
+{
+    "name":  "build-harmonyos-apps",
+    "version":  "0.1.0",
+    "description":  "Build, refine, run, and debug HarmonyOS apps with ArkTS, ArkUI, DevEco, hvigor, and HDC workflows.",
+    "author":  {
+                   "name":  "Local developer",
+                   "url":  "https://developer.huawei.com/"
+               },
+    "homepage":  "https://developer.huawei.com/",
+    "repository":  "https://developer.huawei.com/",
+    "license":  "MIT",
+    "keywords":  [
+                     "harmonyos",
+                     "openharmony",
+                     "arkts",
+                     "arkui",
+                     "deveco",
+                     "hvigor",
+                     "hdc",
+                     "performance",
+                     "debugging"
+                 ],
+    "skills":  "./skills/",
+    "interface":  {
+                      "displayName":  "Build HarmonyOS Apps",
+                      "shortDescription":  "Build, refine, run, and debug HarmonyOS apps with ArkTS and ArkUI workflows",
+                      "longDescription":  "Use Build HarmonyOS Apps to design ArkUI interfaces, refactor ArkTS UI code, build HAPs with hvigor, install and launch apps through HDC, inspect logs and screenshots, reason about system-facing abilities and widgets, and guide performance or memory investigations for HarmonyOS projects.",
+                      "developerName":  "Local developer",
+                      "category":  "Developer Tools",
+                      "capabilities":  [
+                                           "Interactive",
+                                           "Read",
+                                           "Write"
+                                       ],
+                      "defaultPrompt":  [
+                                            "Build or debug a HarmonyOS app with ArkTS and ArkUI."
+                                        ],
+                      "brandColor":  "#0A59F7",
+                      "composerIcon":  "./assets/build-harmonyos-apps.svg",
+                      "logo":  "./assets/build-harmonyos-apps.svg",
+                      "screenshots":  [
+
+                                      ]
+                  },
+    "mcpServers":  "./.mcp.json"
+}

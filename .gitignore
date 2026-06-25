@@ -1,0 +1,17 @@
+.venv-plugin-validate/
+artifacts/
+dist/
+
+plugins/build-harmonyos-apps/README.md
+
+node_modules/
+oh_modules/
+.hvigor/
+build/
+
+*.log
+*.tmp
+*.bak
+
+.DS_Store
+Thumbs.db

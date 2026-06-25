@@ -1,0 +1,4 @@
+interface:
+  display_name: "ArkUI Design System"
+  short_description: "Review HarmonyOS-native ArkUI visual systems"
+  default_prompt: "Use $arkui-design-system to review this ArkUI UI for platform fit, visual states, accessibility, and responsive behavior."

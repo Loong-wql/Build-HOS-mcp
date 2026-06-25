@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Build HarmonyOS Apps">
+  <rect width="128" height="128" rx="28" fill="#0A59F7"/>
+  <path d="M32 38h64v52H32z" fill="#ffffff" opacity=".14"/>
+  <path d="M42 48h44v10H42zm0 18h28v10H42z" fill="#ffffff"/>
+  <path d="M84 70l13 10-13 10V70z" fill="#ffffff"/>
+  <circle cx="96" cy="38" r="10" fill="#27D17F"/>
+</svg>

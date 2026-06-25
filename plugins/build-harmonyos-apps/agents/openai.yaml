@@ -1,0 +1,6 @@
+interface:
+  display_name: "Build HarmonyOS Apps"
+  short_description: "Build, profile, debug, and refine HarmonyOS apps with ArkTS, ArkUI, DevEco, hvigor, and HDC workflows"
+  icon_small: "./assets/build-harmonyos-apps.svg"
+  icon_large: "./assets/build-harmonyos-apps.svg"
+  default_prompt: "Build or debug a HarmonyOS app with ArkTS, ArkUI, hvigor, and HDC."

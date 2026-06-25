@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS System Surfaces"
+  short_description: "Design abilities, Want routing, widgets, and extension entry points"
+  default_prompt: "Use $harmonyos-system-surfaces to design HarmonyOS abilities, Want routing, widgets, and external entry points."

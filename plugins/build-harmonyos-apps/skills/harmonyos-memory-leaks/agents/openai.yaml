@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS Memory Leaks"
+  short_description: "Investigate HarmonyOS memory growth and retained resources"
+  default_prompt: "Use $harmonyos-memory-leaks to investigate memory growth, retained resources, and before/after leak evidence."

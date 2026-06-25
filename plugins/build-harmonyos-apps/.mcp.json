@@ -1,0 +1,14 @@
+{
+    "mcpServers":  {
+                       "harmonyosmcp":  {
+                                            "command":  "node",
+                                            "args":  [
+                                                         "C:/Users/59413/.codex/plugins/build-harmonyos-apps/scripts/harmonyos-mcp-server.mjs"
+                                                     ],
+                                            "cwd":  "C:/Users/59413/.codex/plugins/build-harmonyos-apps",
+                                            "env":  {
+                                                        "HARMONYOS_MCP_LOG":  "0"
+                                                    }
+                                        }
+                   }
+}

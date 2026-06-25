@@ -1,0 +1,4 @@
+interface:
+  display_name: "ArkUI UI Patterns"
+  short_description: "Apply practical ArkUI UI, state, and navigation patterns"
+  default_prompt: "Use $arkui-ui-patterns to design or refactor this HarmonyOS ArkUI screen with strong default patterns."
